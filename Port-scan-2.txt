@@ -1,0 +1,10 @@
+Start Time: 09:57:38:
+
+Port No : 135 Open Protocol Service Name: epmap
+Port No : 445 Open Protocol Service Name: microsoft-ds
+Port No : 902 Open Protocol Service Name: unknown
+Port No : 912 Open Protocol Service Name: unknown
+
+End Time: 09:57:40:
+
+Total_time: 0:00:01.765952
